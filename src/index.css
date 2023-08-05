@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+}
+.login_form {
+  display: flex;
+  flex-direction: column;
+}

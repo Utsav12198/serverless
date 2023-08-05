@@ -14,7 +14,6 @@
     "@emotion/styled": "^11.11.0",
     "@mui/icons-material": "^5.13.7",
     "@mui/material": "^5.13.7",
-    "@mui/styles": "^5.14.3",
     "axios": "^1.4.0",
     "firebase": "^10.1.0",
     "mui-file-input": "^2.0.3",
